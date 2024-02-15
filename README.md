@@ -37,7 +37,7 @@ first line <p> same line using < p > (paragraph)
 >>> third blockquote
 
 ## Code block
-share code using a code block by using ~ with shit
+share code using a code block by using ~ with shift
 ~~~ 
 
 public class test 
