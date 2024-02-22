@@ -4,6 +4,7 @@ afraid. And the HIGH-PITCHED WHINE of RAMJETS laboring
 against heavy side-winds as we000000 struggle to focus on -
 - OPEN OCEAN. CHURNING, whipping past at a couple hundred
 miles an hour, 800 feet below a SOLDIER'S DANGLING BOOTS.
+<<<<<<< HEAD
 CAGE (V.O.)
 
 000000000000
@@ -19,11 +20,29 @@ Cage taps a button. His faceplate opens, NOISE floods in at a
 DEAFENING ROAR. He rubs his eyes -
 YONABURU
 Don't poke yer eye 000000out, bud.
+=======
+CAGE (V.O.)CHANGECHANGECHANGE
+What am I doing here?CHANGE
+PVT. BILLY CAGE is maybe 20. Too young for this. COLD SWEAT
+trickles into his eyes. When he tries to wipe it away, his
+ARMORED FINGERS CLACK against clear ACRYLIC. His FACEPLATE.
+Cage is wearing an EXOJACKET: powered, CHANGECHANGECHANGECHANGEtight-fitting body
+armor, bristling with weaponry. TWO DOZEN OTHER young,
+terrified SOLDIERS hang with him, also jacketed, dangling
+over the OPEN BAY DOORS,CHANGECHANGECHANGE over OCEAN.
+Cage taps a button. His faceplate opens, NOISE floods in at a
+DEAFENING ROAR. He rubs his eyes -
+YONABURUCHANGECHANGE
+CHANGECHANGECHANGECHANGE
+Don't poke yer eye out, bud.
+>>>>>>> c9d13ac07254122c331f5e436778be4a65962e5c
 PVT. YONABURU, a hard-ass fuckup with Asian features but a
 Southern drawl - Cage's battle-buddy - smiles.
 SGT. FARELL
+CHANGECHANGE
 GET YOUR PLATE SHUT, PRIVATE!
 FROM UP FRONT, BATTLE000000-SCARRED SGT. FARELL shoots them a look.
 ACROSS from Cage, GRIFF, 25, a burly-looking bad-ass, keeps
 making an about-to-vomit face, barely fighting back the urge.
+<<<<<<< HEAD
 SGT. FARELL (CONT'D) 000000
