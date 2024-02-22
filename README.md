@@ -1,4 +1,16 @@
-ASFKSFAJBFSKABFK
+git checkout "your branch name"
+-make change to code 
+git add .
+git commit -m "msg"
+git push
+
+git checkout "the other branch"		//changing current branch to the other  
+git merge "branch name 1" -m "msg"	//merge changes from "branch name 1" and leave a msg
+git push				
+
+git checkout main
+git merge "branch name 2" -m "msg"
+git push
 
 # Heading Level 1 using 1#
 ## Heading Level 2 using 2#
