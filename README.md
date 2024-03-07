@@ -1,3 +1,5 @@
+Link in .md shourt cut use []Square bracket for the name ()bracket for url <br>
+
 git checkout "your branch name" <br>
 -make change to code <br>
 git add . <br>
